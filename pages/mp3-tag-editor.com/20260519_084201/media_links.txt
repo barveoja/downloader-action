@@ -1,0 +1,5 @@
+/assets/images/apple-touch-icon.png
+/assets/images/favicon-16x16.png
+/assets/images/favicon-32x32.png
+/assets/images/favicon-96x96.ico
+/assets/images/mp3-tag-editor-apk.webp
