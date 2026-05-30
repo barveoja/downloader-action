@@ -14,3 +14,5 @@
 ![my.multibankfx.com](./my.multibankfx.com/20260520_044807/media/favicon.png) **my.multibankfx.com** — [ [View](./my.multibankfx.com/20260520_044807/index.md) | [Download](./my.multibankfx.com/20260520_044807.zip) ]
 
 ![mp3-tag-editor.com](./mp3-tag-editor.com/20260521_025925/media/favicon.ico) **mp3-tag-editor.com** — [ [View](./mp3-tag-editor.com/20260521_025925/index.md) | [Download](./mp3-tag-editor.com/20260521_025925.zip) ]
+
+![namatek.com](./namatek.com/20260530_050621/media/favicon.png) **namatek.com** — [ [View](./namatek.com/20260530_050621/index.md) | [Download](./namatek.com/20260530_050621.zip) ]

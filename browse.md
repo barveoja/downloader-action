@@ -14,3 +14,5 @@
 ![favicon](pages/my.multibankfx.com/20260520_044807/media/favicon.png) 5- [my.multibankfx.com](pages/my.multibankfx.com/20260520_044807/index.md)
 
 ![favicon](pages/mp3-tag-editor.com/20260521_025925/media/favicon.ico) 6- [mp3-tag-editor.com](pages/mp3-tag-editor.com/20260521_025925/index.md)
+
+![favicon](pages/namatek.com/20260530_050621/media/favicon.png) 7- [namatek.com](pages/namatek.com/20260530_050621/index.md)
